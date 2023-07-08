@@ -27,7 +27,6 @@ The expenses page allows you to manage your expenses. You can add new expense en
 - Express.js
 - MongoDB
 - Chart.js (for data visualization)
-- 
 ## Getting Started
 
 To get started with the Expense Tracker application, follow these steps:
